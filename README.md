@@ -20,11 +20,12 @@ This project implements a Model Context Protocol (MCP) server that allows AI ass
 
 Before running this project, ensure you have:
 
-- Python installed (version 3.8 or higher recommended)
+- Python installed (version 3.11.6 or higher recommended)
 - uv package manager (pip install uv)
 - httpx installed (pip install httpx)
 - fastmcp installed (pip install fastmcp)
 
+uv Package Manager Installation 
 ```bash
 # On macOS and Linux.
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -34,3 +35,6 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # On Windows.
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
+Add to PATH
+
+
