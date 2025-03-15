@@ -73,4 +73,7 @@ Open Claude Desktop, you would see: 2 MCP tools available (at right-side of the 
 
 <img src="https://github.com/user-attachments/assets/d3d2a756-a416-4236-99f8-21884139fc03" height="300px" width=auto />
 
+<p>You can ask real-time weather-related questions to Claude now</p>
+
+
 
