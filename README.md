@@ -51,10 +51,10 @@ Add to PATH
    ```{
     "mcpServers": {
         "weather": {
-            "command": "C:/Users/ANKUSH/.local/bin/uv.exe",
+            "command": "C:/Users/"enter_your_username"/.local/bin/uv.exe",
             "args": [
                 "--directory",
-                "C:/Users/ANKUSH/Desktop/weather_mcp/weather",
+                "directory_location of main.py",
                 "run",
                 "main.py"
             ]
