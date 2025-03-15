@@ -24,6 +24,7 @@ Before running this project, ensure you have:
 - uv package manager (pip install uv)
 - httpx installed (pip install httpx)
 - fastmcp installed (pip install fastmcp)
+- Claude Desktop app
 
 uv Package Manager Installation 
 ```bash
@@ -37,4 +38,14 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ```
 Add to PATH
 
+## Installation & Setup
+
+1. Clone the repository:
+   ```git clone [https://github.com/ankushmehta123/weather-mcp.git
+cd weather-mcp](https://github.com/ankushmehta123/weather-mcp-server/)```
+
+3. Install dependencies:
+
+4. Configure your MCP server by adding the following to
+   ```claude_desktop_config.json:```
 
