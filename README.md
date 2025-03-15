@@ -41,8 +41,7 @@ Add to PATH
 ## Installation & Setup
 
 1. Clone the repository:
-   ```git clone [https://github.com/ankushmehta123/weather-mcp.git
-cd weather-mcp](https://github.com/ankushmehta123/weather-mcp-server/)```
+   `git clone https://github.com/ankushmehta123/weather-mcp-server.git`
 
 3. Install dependencies:
 
