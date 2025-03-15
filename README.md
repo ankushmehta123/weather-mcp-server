@@ -71,7 +71,7 @@ Run main.py
 
 Open Claude Desktop, you would see: 2 MCP tools available (at right-side of the search-bar)
 
-<img src="https://github.com/user-attachments/assets/d3d2a756-a416-4236-99f8-21884139fc03" height="500px" width="300px" />
+<img src="https://github.com/user-attachments/assets/d3d2a756-a416-4236-99f8-21884139fc03" height="400px" width=auto />
 <br>
 <img src="https://github.com/user-attachments/assets/459d881b-47c8-4b9a-9ede-a270c21d54e7" height="500px" width="300px" />
 
