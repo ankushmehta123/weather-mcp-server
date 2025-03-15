@@ -44,7 +44,21 @@ Add to PATH
    `git clone https://github.com/ankushmehta123/weather-mcp-server.git`
 
 3. Install dependencies:
+   `pip install -r requirements.txt`
 
-4. Configure your MCP server by adding the following to
+5. Configure your MCP server by adding the following to
    ```claude_desktop_config.json:```
+   ```{
+    "mcpServers": {
+        "weather": {
+            "command": "C:/Users/ANKUSH/.local/bin/uv.exe",
+            "args": [
+                "--directory",
+                "C:/Users/ANKUSH/Desktop/weather_mcp/weather",
+                "run",
+                "main.py"
+            ]
+        }
+    }
+}```
 
