@@ -60,7 +60,7 @@ Add to PATH
             ]
         }
     }
-}```
+   }
 
 ## Usage
 
@@ -71,13 +71,13 @@ Run main.py
 
 Open Claude Desktop, you would see: 2 MCP tools available (at right-side of the search-bar)
 
-![Screenshot 2025-03-15 132217](https://github.com/user-attachments/assets/d3d2a756-a416-4236-99f8-21884139fc03)
+<img height=200px, width=200px>![Screenshot 2025-03-15 132217](https://github.com/user-attachments/assets/d3d2a756-a416-4236-99f8-21884139fc03)</img>
 
-![Screenshot 2025-03-15 132224](https://github.com/user-attachments/assets/459d881b-47c8-4b9a-9ede-a270c21d54e7)
+<img>![Screenshot 2025-03-15 132224](https://github.com/user-attachments/assets/459d881b-47c8-4b9a-9ede-a270c21d54e7)</img>
 
 
 You can ask real-time weather related questions to claude now:
 
-![Screenshot 2025-03-15 132527](https://github.com/user-attachments/assets/dba04376-f3ca-479a-81d8-8671df29d60d)
+<img>![Screenshot 2025-03-15 132527](https://github.com/user-attachments/assets/dba04376-f3ca-479a-81d8-8671df29d60d)</img>
 
 
